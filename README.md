@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png" alt="Ashik K S Banner" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Ashik K S</h1>
+<h3 align="center">Python Full Stack Developer</h3>
 <h1 align="center">Hi 👋, I'm Ashik K S</h1>
 <h3 align="center">Python Full Stack Developer | Building Scalable Web Applications</h3>
 
