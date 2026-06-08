@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Hi 👋, I'm Ashik K S</h1>
 
 <h3 align="center">A Passionate Python Full Stack Developer from India</h3>
@@ -90,6 +90,6 @@
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </p>
-```
+
 
 
