@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Python Full Stack Developer from India</h3>
 
 <p align="right">
-  <img src="developer-girl.png" width="600" alt="Developer Girl"/>
+  <img src="developer-girl.png" width="400" alt="Developer Girl"/>
 </p>
 
 ### 🚀 About Me
