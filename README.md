@@ -3,10 +3,9 @@
 
 <h3 align="center">A Passionate Python Full Stack Developer from India</h3>
 
-<table>
-<tr>
-
-<td width="60%" valign="top">
+<p align="right">
+  <img src="developer-girl.png" width="700" alt="Developer Girl"/>
+</p>
 
 ### 🚀 About Me
 
@@ -21,22 +20,9 @@
 - 🤝 Open to Open Source Collaboration
 - 🚀 Building real-world projects with modern technologies
 
-</td>
+## 🌐 Connect With Me
 
-<td width="40%" align="center">
-
-<img src="developer-girl.png" alt="Developer Girl" width="650"/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<h2>🌐 Connect With Me</h2>
-
-<p align="left">
+<p>
 <a href="https://www.linkedin.com/in/ashika-ks">
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
@@ -50,9 +36,9 @@
 </a>
 </p>
 
-<h2>🛠️ Languages and Tools</h2>
+## 🛠️ Languages and Tools
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python"/>
 <img src="https://skillicons.dev/icons?i=django"/>
 <img src="https://skillicons.dev/icons?i=react"/>
@@ -69,27 +55,6 @@
 <img src="https://skillicons.dev/icons?i=linux"/>
 </p>
 
-<h2>🏆 Featured Projects</h2>
-
-### 🎯 FocusArena
-- AI-powered coding contest platform
-- Contest Management
-- AI Integration using Groq
-- Tab Switch Detection
-- Admin Monitoring Dashboard
-- SMTP Email Notifications
-- Docker Deployment
-
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ashika-K-S&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashika-K-S&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
 
 
 
