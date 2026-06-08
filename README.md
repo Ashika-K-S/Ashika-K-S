@@ -3,9 +3,10 @@
 
 <h3 align="center">A Passionate Python Full Stack Developer from India</h3>
 
-<p align="right">
-  <img src="developer-girl.png" width="300" alt="Developer Girl"/>
-</p>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+
+<td width="65%" valign="top">
 
 ### 🚀 About Me
 
@@ -19,6 +20,17 @@
 - 🎯 Focused on Backend Development & Software Architecture
 - 🤝 Open to Open Source Collaboration
 - 🚀 Building real-world projects with modern technologies
+
+</td>
+
+<td width="35%" align="right" valign="top">
+
+<img src="developer-girl.png" width="900"/>
+
+</td>
+
+</tr>
+</table>
 
 ## 🌐 Connect With Me
 
