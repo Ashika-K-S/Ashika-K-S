@@ -1,58 +1,64 @@
 <h1 align="center">Hi 👋, I'm Ashik K S</h1>
 
-<h3 align="center">A passionate Python Full Stack Developer from India</h3>
+<h3 align="center">Python Full Stack Developer | Django • React • PostgreSQL</h3>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="68%" valign="top">
 
-- 🔭 I'm currently working on **FocusArena**
+### 🚀 About Me
 
-- 🌱 I'm currently learning **Docker, DevOps & System Design**
+- 🔭 Currently building **FocusArena** – An AI-powered coding contest and learning platform
+- 🌱 Exploring **Docker, DevOps, CI/CD, System Design & Cloud Technologies**
+- 👨‍💻 Passionate about developing scalable and high-performance web applications
+- 💬 Ask me about **Python, Django, DRF, React, PostgreSQL and REST APIs**
+- 🎯 Focused on writing clean, maintainable and production-ready code
+- 📚 Continuously learning modern development practices and software architecture
+- 🤝 Open to collaboration on Full Stack and Open Source Projects
+- ⚡ Love solving real-world problems through technology
 
-- 👨‍💻 All of my projects are available at  
-  https://github.com/Ashika-K-S
+📫 **Email:** ashikaksuresh@gmail.com
 
-- 💬 Ask me about  
-  **Python, Django, DRF, React & PostgreSQL**
-
-- 📫 How to reach me  
-  **ashikaksuresh@gmail.com**
-
-- ⚡ Passionate about building scalable web applications
+🌐 **GitHub:** https://github.com/Ashika-K-S
 
 </td>
 
-<td width="40%" align="center">
+<td width="32%" align="center">
 
-<img src="developer-girl.png" width="300"/>
+<img src="developer-girl.png" width="450"/>
 
 </td>
 </tr>
 </table>
 
-<h3 align="left">Languages and Tools:</h3>
+</div>
+
+---
+
+### 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python" width="42"/>
-<img src="https://skillicons.dev/icons?i=django" width="42"/>
-<img src="https://skillicons.dev/icons?i=react" width="42"/>
-<img src="https://skillicons.dev/icons?i=javascript" width="42"/>
-<img src="https://skillicons.dev/icons?i=html" width="42"/>
-<img src="https://skillicons.dev/icons?i=css" width="42"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" width="42"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="42"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="42"/>
-<img src="https://skillicons.dev/icons?i=docker" width="42"/>
-<img src="https://skillicons.dev/icons?i=git" width="42"/>
-<img src="https://skillicons.dev/icons?i=github" width="42"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="42"/>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ashika-ks">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
