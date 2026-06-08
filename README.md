@@ -19,11 +19,13 @@
 - 📫 How to reach me  
   **ashikaksuresh@gmail.com**
 
+- ⚡ Passionate about building scalable web applications
+
 </td>
 
 <td width="40%" align="center">
 
-<img src="developer-girl.png" width="280"/>
+<img src="developer-girl.png" width="300"/>
 
 </td>
 </tr>
@@ -32,25 +34,25 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python" width="45"/>
-<img src="https://skillicons.dev/icons?i=django" width="45"/>
-<img src="https://skillicons.dev/icons?i=react" width="45"/>
-<img src="https://skillicons.dev/icons?i=javascript" width="45"/>
-<img src="https://skillicons.dev/icons?i=html" width="45"/>
-<img src="https://skillicons.dev/icons?i=css" width="45"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" width="45"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="45"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
-<img src="https://skillicons.dev/icons?i=docker" width="45"/>
-<img src="https://skillicons.dev/icons?i=git" width="45"/>
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+<img src="https://skillicons.dev/icons?i=python" width="42"/>
+<img src="https://skillicons.dev/icons?i=django" width="42"/>
+<img src="https://skillicons.dev/icons?i=react" width="42"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="42"/>
+<img src="https://skillicons.dev/icons?i=html" width="42"/>
+<img src="https://skillicons.dev/icons?i=css" width="42"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="42"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="42"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="42"/>
+<img src="https://skillicons.dev/icons?i=docker" width="42"/>
+<img src="https://skillicons.dev/icons?i=git" width="42"/>
+<img src="https://skillicons.dev/icons?i=github" width="42"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="42"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ashika-ks">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 </p>
